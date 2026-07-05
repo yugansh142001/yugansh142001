@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Yugansh Sharma 👋</h1>
 
-<!--
-**yugansh142001/yugansh142001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<b>Electrical Engineering Student</b> · <b>Freelance Web Developer</b> · <b>Founder, YS WebWorks</b>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 About Me
+I'm a first-year B.Tech Electrical Engineering student who also builds and ships real, working websites for businesses through my freelance practice, **YS WebWorks**. I like blending technical fundamentals with hands-on creative work — one foot in circuits, the other in code.
+
+### 🔧 Currently
+- Building responsive, self-contained websites for real clients — restaurants, jewellers, and beyond
+- Strengthening my EE fundamentals while exploring paths in core electrical, software/AI, and entrepreneurship
+- Growing my skillset through industry certifications
+
+### 💼 Live Projects
+| Project | Description |
+|---|---|
+| 🍽️ [Prem's Dosa Hub](https://premdosa.netlify.app/) | Restaurant website |
+| 🍽️ [The Appetiter](https://appetiter.netlify.app/theappetiter) | Restaurant website |
+| 💎 [Mehar Jewellers](https://meharjewlers.netlify.app/) | Luxury jewellery brand site |
+| 🌐 [My Portfolio](https://yuganshsharmapotfolio.netlify.app/) | Full background, credentials, and vision |
+### 📫 Connect
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+](https://www.linkedin.com/in/yugansh-sharma-0b4355419)
+[
+
+![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)
+
+](https://yuganshsharmapotfolio.netlify.app/)
+
+<p align="center">⚡ Based in Punjab, India</p>
