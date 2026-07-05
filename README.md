@@ -22,15 +22,6 @@ I'm a first-year B.Tech Electrical Engineering student who also builds and ships
 | 💎 [Mehar Jewellers](https://meharjewlers.netlify.app/) | Luxury jewellery brand site |
 | 🌐 [My Portfolio](https://yuganshsharmapotfolio.netlify.app/) | Full background, credentials, and vision |
 ### 📫 Connect
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](https://www.linkedin.com/in/yugansh-sharma-0b4355419)
-[
-
-![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)
-
-](https://yuganshsharmapotfolio.netlify.app/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yugansh-sharma-0b4355419)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://yuganshsharmapotfolio.netlify.app/)
 <p align="center">⚡ Based in Punjab, India</p>
