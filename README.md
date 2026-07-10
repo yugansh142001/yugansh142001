@@ -19,7 +19,7 @@ I'm a first-year B.Tech Electrical Engineering student who also builds and ships
 |---|---|
 | 🍽️ [Prem's Dosa Hub](https://premdosa.netlify.app/) | Restaurant website |
 | 🍽️ [The Appetiter](https://appetiter.netlify.app/theappetiter) | Restaurant website |
-| 💎 [Baby garden toy store](https://yugansh142001.github.io/Baby-garden-/#home) | Luxury jewellery brand site |
+| 💎 [Baby garden toy store](https://yugansh142001.github.io/Baby-garden-/#home) | toy store website |
 | 🌐 [My Portfolio](https://yuganshsharmapotfolio.netlify.app/) | Full background, credentials, and vision |
 ### 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yugansh-sharma-0b4355419)
